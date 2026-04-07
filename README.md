@@ -35,7 +35,7 @@ bash
 
 Copy code
 # Clone o repositório
-git clone https://github.com/SHERLON20/passgreen.git
+git clone https://github.com/SHERLON20/app_passgreen.git
 
 # Instale as dependências
 pip install flet
